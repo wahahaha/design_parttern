@@ -1,1 +1,1 @@
-# design_parttern
+有关设计模式的python代码示例
